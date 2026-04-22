@@ -1,6 +1,6 @@
 # Projects
 
-A selection of things I've built. Most repos are private due to school policy (other students are working on the same assignments), but drop me a line, if you want to see them.
+A selection of things I've built, mostly for school. Most repos are private due to school policy (other students are working on the same assignments), but drop me a line, if you want to see them.
 
 ---
 
@@ -21,5 +21,8 @@ Stateless content generation tool for blog posts and emails.
 - Export to PDF, DOCX, Markdown, HTML, Rich Text, BBCode, plain text
 - Optional browser-side API key storage for bring-your-own-key usage
 
-[Readme](https://github.com/mikapitkala/projects-readme/ghostwriter/)
-[Repo](https://github.com/mikapitkala/ghostwriter) (request access)
+[Readme](https://github.com/mikapitkala/projects-readme/tree/main/ghostwriter)
+
+[Actual Repo](https://github.com/mikapitkala/ghostwriter) (request access)
+
+---
