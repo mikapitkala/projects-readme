@@ -14,6 +14,7 @@ A selection of things I've built, mostly for school. Most repos are private due 
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpinedotjs&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 Stateless content generation tool for blog posts and emails. Fill out a form with content requirements and style preferences, get streamed output that can be refined, edited, and exported.
 
@@ -71,7 +72,6 @@ intense multiplayer battles.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![No Build](https://img.shields.io/badge/No_Build-Required-brightgreen?style=flat)
 
 A reactive frontend framework built without a virtual DOM. Import via ES modules and run - no build step, no tooling.
 
@@ -84,6 +84,7 @@ A reactive frontend framework built without a virtual DOM. Import via ES modules
 - Interactive 16-step tutorial built using the framework itself
 - Performance comparison example against a vanilla JS todo app
 - Minimal development server included (built-in Node modules only, no `npm install` required)
+- Zero build steps
 
 [![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/frontend-framework) [![Docs](https://img.shields.io/badge/Docs-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/frontend-framework/docs) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/frontend-framework)
 
@@ -144,7 +145,6 @@ live synchronization.
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Zero JS](https://img.shields.io/badge/Zero-JavaScript-red?style=flat)
 
 Full-stack forum for literary discussions, built with strict constraints: zero JavaScript, zero non-standard Go libraries.
 
@@ -166,10 +166,9 @@ Full-stack forum for literary discussions, built with strict constraints: zero J
 **Group project** (with Pavel)
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Scale](https://img.shields.io/badge/Scale-10k_stations-orange?style=flat)
+![CLI](https://img.shields.io/badge/CLI-333?style=flat)
 
-Terminal-based pathfinding for train networks with conflict-free
-concurrent train movement.
+Terminal-based pathfinding for train networks with conflict-free concurrent train movement.
 
 - BFS shortest path algorithm
 - Combinatorial optimization using bitmask iteration for finding maximum non-overlapping routes
@@ -215,6 +214,8 @@ Node.js API.
 **Solo project**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-333?style=flat)
+![Web](https://img.shields.io/badge/Web-0366d6?style=flat)
 
 CLI and web tool for encoding and decoding ASCII art shorthand.
 
@@ -230,25 +231,156 @@ CLI and web tool for encoding and decoding ASCII art shorthand.
 
 ---
 
-## Personal & Work Projects
+## Personal Projects
 
-### vBulletin to Vanilla Forum Migration (2018)
-**Solo project**
+### vscode2markdown (2025)
+**Solo project** | Tiny workflow tool
+
+![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=flat&logo=autohotkey&logoColor=white)
+
+One-keypress AutoHotkey script for wrapping selected VS Code text in a properly formatted markdown code block with language hint and file path. Paste-ready output for Discord, chats, or documentation.
+
+- Grabs the selected code, pulls the relative file path via VS Code's built-in "Copy Relative Path" command, detects language from the extension
+- Not a real project - just tired of typing backticks
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/vscode2markdown)
+
+---
+
+### Batch 3D File Converter for Blender (2024)
+**Solo project** | Kitbashing helper
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+
+Python script that scans a directory for 3D models (`.fbx`, `.obj`, `.stl`) and batch-converts between formats using Blender's Python API. Born from the recurring problem of purchased asset packs somehow always being in the wrong format for whatever app I want to use them in.
+
+- Scans recursively and only converts when the target format doesn't already exist
+- Geometry only (no UVs, textures, rigs, animations)
+- Runs from Blender's scripting tab or any external Python environment with `bpy` available
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/blender-converter)
+
+---
+
+### Louie – Discord Community Bot (2022 – present)
+**Solo project** | Named after one of the drones in Silent Running
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat&logo=digitalocean&logoColor=white)
+
+Community moderation and role management bot for the Scifi-Meshes Discord server. Started on Heroku, migrated to Digital Ocean when Heroku axed their free tier.
+
+- **Cross-channel spam detection** - tracks message patterns across channels within a sliding window, normalizes content to catch variations, takes action when patterns match known spam behavior
+- Automatic timeout, message deletion, admin alerting with payload preview for review
+- Race condition handling to prevent duplicate responses during cleanup
+- Periodic memory cleanup for long-running deployments
+- Permission-aware (mods bypass, respects Discord role hierarchy)
+- **Self-service role management** - users pick their 3D/2D/render/VFX apps from dropdown menus, bot manages Discord roles accordingly (~75+ apps across 5 categories, each with custom emoji)
+- Role icon determined by highest-priority role, so a user with Blender, Photoshop, and Vray shows the Blender icon
+- **Auto-threading** in designated channels - new posts without embeds or attachments get deleted (with a polite DM explaining why), valid posts automatically get a "Comments" thread for discussion
+- **Rules embed generator** - admin command that posts a multi-embed rules document with cross-references to actual channel IDs
+- Slash commands with admin-only permissions, ephemeral replies for status checks and tests
+- Modular command and event loading from directories
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.scifi-meshes.com)
+
+---
+
+### Scifi-Meshes.com (2018 – present)
+**Solo project** | Community forum built and maintained
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Regex](https://img.shields.io/badge/Regex-69_groups-red?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vanilla Forums](https://img.shields.io/badge/Vanilla_Forums-gray?style=flat)
+![Regex](https://img.shields.io/badge/%F0%9F%92%80_Regex-red?style=flat)
 
-Migrated a 3D sci-fi art community forum (running since 2006) from vBulletin to Vanilla Forums.
+Long-running 3D sci-fi art community forum (running since 2001, data from 2006 onwards). In 2018, migrated from vBulletin to Vanilla Forums while simultaneously redesigning it.
 
-- Official migration tools couldn't handle the database state due to years of customization
-- Built custom migration using a single regex with ~69 capture groups to rebuild the database schema
-- Learned enough PHP during the project to troubleshoot Vanilla customizations. Even wrote a couple of custom addons
-- Still running on a LAMP stack I maintain on Digital Ocean
-- Currently considering a rewrite in Go, HTMX, AlpineJS, Tailwind and SQLite
+**Migration approach:**
+- Official Vanilla Porter couldn't handle our data - attachments broke it entirely, and the old forum had to keep running during migration so cleaning up source data wasn't feasible
+- Read vBulletin source code to understand the source schema, mapped it to Vanilla's target schema
+- Built a regex-based transformation pipeline with many capture groups to rebuild tables from CSV dumps
+- Two-pass approach: generate `GDN_Media` inserts first, then a second regex reads those inserts and generates `UPDATE` statements that inject `[img]` BBCode tags into the referenced posts
+- Migrated all active users (with posts or login within 5 years), threads, comments, attachments, private messages
+- Restored functionality lost to vBulletin updates: Custom gallery addon content converted to regular posts in **Finished Work** forum. Third party Downloads section converted to regular forum posts on a new **Releases** forum.
+
+**Customization:**
+- Custom theme system with 3 color schemes in regular and compact variants plus a mobile version
+- Social media, app usage, and commission status displayed as icons in comment author info
+- User-configurable draft autosave (database, localStorage, or off)
+- Category-specific thread prefixes for navigation and filtering
+- Bandwidth-optimized thread thumbnails via ImageKit
+- Analytics, cookie consent, custom header, and Discord widget integrations
+- Privacy tooling: user data export, self-delete, GDPR-compliant privacy policy
+- SphinxSearch for full-text search
+- Multi-layer antispam with tiered new member permissions
+- Badge, reputation, and reaction system
+
+Still running on a LAMP stack I maintain on Digital Ocean. Currently considering a rewrite in something like Go, HTMX, AlpineJS, Tailwind and SQLite as one inevitably does occasionally. How hard could it be, right?
+
+<details>
+<summary>There *has* to be a better way</summary>
+
+```
+Prep
+"" -> "
+' -> \\'
+\r\n -> \\r\\n
+\n -> \\r\\n
+' -> \\'
+
+New Comments
+"(\d+)","(\d+)","\d+","\w+","(\d+)",,"(\d+)","(.*?)","\d+","\d+","(\d+\.\d+\.\d+\.\d+)","\d+","\d+","\d+","\d+","\d+","\d+","on_nl2br"\\r\\n
+-->
+INSERT INTO `GDN_Comment` VALUES \(\1,\2,\3,\3,NULL,'\5','BBCode',FROM_UNIXTIME\(\4\),NULL,NULL,'\6',NULL,0,0,NULL\);\r\n
+
+New Threads
+"\d+","(\d+)","\d+","\w+","(\d+)","(.*?)","(\d+)","(.*?)","\d+","\d+","(\d+\.\d+\.\d+\.\d+)","\d+","\d+","\d+","\d+","\d+","\d+","on_nl2br"\\r\\n
+-->
+INSERT INTO `GDN_Discussion` VALUES \(\1,NULL,NULL,18,\2,NULL,'','','\3','\5','BBCode','',0,NULL,0,0,0,0,FROM_UNIXTIME\(\4\),NULL,'\6',NULL,'','',NULL,NULL,NULL,NULL,NULL,0\);\r\n
+
+Attachments
+"(\d+)","\d","(\d+)","(\d+)","(\d+)","(\d+)","visible","\d+",,"(.*?)\.(.*?)",NULL,"\d+",NULL,"0"
+-->
+INSERT INTO `GDN_Media` VALUES \(\1,'\6\.\7','vb_attachments/\3/\5\.\7','image/\7','',\3,FROM_UNIXTIME\(\4\),\2,'comment',NULL,NULL,NULL,NULL,NULL\);
+
+Attachments to posts
+INSERT INTO `GDN_Media` VALUES \(\d+,'\w+.\w+','(vb_attachments/\d+/\d+.\w+)','\w+/\w+','',\d+,FROM_UNIXTIME\(\d+\),(\d+),'(\w+)',NULL,NULL,NULL,NULL,NULL\);
+-->
+UPDATE `vanilla25`.`GDN_\u\3` SET `Body`= CONCAT\(`Body`, '\\r\\n[img]https://[HOST]/forums/uploads/\1[/img]'\) WHERE `\u\3ID`='\2';
+```
+
+But, it worked. Mostly.
+
+</details>
+
+[![Visit Forum](https://img.shields.io/badge/🌐_Visit_Forum-4CAF50?style=for-the-badge)](https://www.scifi-meshes.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.scifi-meshes.com)
+
+---
+
+## Work Projects
+
+### Jira Workflow & Budgeting Automation (2022 - 2023)
+**Solo project** | WithSecure
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+
+Updated localization Jira workflow with automated data collection and budget tracking. Getting my own custom Jira workflow instead of the generic one is actually something of a career highlight.
+
+- Designed to keep the localization operation running with a significantly smaller team after the corporate demerger
+- Automated work tracking, timing, and cost calculation at the ticket level
+- Generated open data that other parts of the company could consume for their own reporting
+- Removed the manual spreadsheet work that was eating into delivery time
+- Made the team's output and patterns visible to stakeholders without anyone having to compile reports
+
+---
 
 ### FS_XLIFFer – Format Normalization Tool (2020)
-**Work project**
+**Solo project** | F-Secure
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
@@ -260,11 +392,13 @@ Internal tool at F-Secure for standardizing localization source formats. Effecti
 - Converts various input formats (CSV, XLSX, inline tags) into standardized XLIFF kits
 - CAT-tool-agnostic output - any translation tool can consume the results
 - Includes Projectinator's project creation and intake functionality so you don't have to hop between tools
+- Integrated with the Weekly Kit
 - Bootstrap-based UI customized to match the company branding at the time
-- 5+ years in production use
 
-### Projectinator – Jira Intake System (2019)
-**Solo project**
+---
+
+### Projectinator – Order Intake System (2019)
+**Solo project** | F-Secure
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
@@ -278,3 +412,17 @@ Web-based intake system for localization project tracking.
 - Bootstrap-based UI customized to match the company branding at the time
 - 100% of projects tracked in Jira
 - Functionality later folded into FS_XLIFFer for a more unified experience
+
+---
+
+### Moderately Interactive Glossary (2019)
+**Solo project** | F-Secure
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+
+Web-based terminology glossary for the localization team and product organization.
+
+- Simple, searchable interface for terminology lookups in 30+ languages
+- Auto-updated as part of the Weekly Kit delivery cycle, so the glossary was always current without anyone having to maintain it manually
+- "Report bad description/translation" button that generated a pre-filled Jira ticket with the term context - low usage in practice, but the low-friction path was there
