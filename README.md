@@ -9,6 +9,8 @@ A selection of things I've built, mostly for school. Most repos are private due 
 ### Ghostwriter – AI Content Generation Platform (2026)
 **Solo project**
 
+![ghostwriter 01](ghostwriter/screenshots/01.png)
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=flat&logo=htmx&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpinedotjs&logoColor=black)
@@ -30,6 +32,8 @@ Stateless content generation tool for blog posts and emails. Fill out a form wit
 - Optional browser-side API key storage for bring-your-own-key usage
 
 [![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/ghostwriter) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/ghostwriter)
+
+![ghostwriter video](ghostwriter/screenshots/video.mp4)
 
 ---
 
