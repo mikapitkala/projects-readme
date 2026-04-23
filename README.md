@@ -298,8 +298,8 @@ Long-running 3D sci-fi art community forum (running since 2001, data from 2006 o
 
 **Migration approach:**
 - Official Vanilla Porter couldn't handle our data - attachments broke it entirely, and the old forum had to keep running during migration so cleaning up source data wasn't feasible
-- Read vBulletin source code to understand the source schema, mapped it to Vanilla's target schema
-- Built a regex-based transformation pipeline with many capture groups to rebuild tables from CSV dumps
+- Read Porter source code to understand the target schema, and mapped the vBulletin schema to that
+- Built a regex-based transformation pipeline with... let's say *multiple* capture groups to rebuild tables from CSV dumps
 - Two-pass approach: generate `GDN_Media` inserts first, then a second regex reads those inserts and generates `UPDATE` statements that inject `[img]` BBCode tags into the referenced posts
 - Migrated all active users (with posts or login within 5 years), threads, comments, attachments, private messages
 - Restored functionality lost to vBulletin updates: Custom gallery addon content converted to regular posts in **Finished Work** forum. Third party Downloads section converted to regular forum posts on a new **Releases** forum.
