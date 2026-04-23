@@ -34,7 +34,7 @@ Stateless content generation tool for blog posts and emails. Fill out a form wit
 ---
 
 ### kood/Melee – Multiplayer Space Combat Arena (2025)
-**Group project** (with Pavel)
+**Group project** (with [@Pavka-dev](https://github.com/Pavka-dev))
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -66,7 +66,7 @@ Star Control 2 Supermelee inspired real-time combat for 2-4 players in the brows
 ---
 
 ### dot-js – Frontend Framework from Scratch (2025)
-**Group project** (with Pavel)
+**Group project** (with [@Pavka-dev](https://github.com/Pavka-dev))
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -89,7 +89,7 @@ A reactive frontend framework built without a virtual DOM. Import via ES modules
 ---
 
 ### match-me – Recommendation Platform (2025)
-**Group project** (with Pavel)
+**Group project** (with [@Pavka-dev](https://github.com/Pavka-dev))
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -115,7 +115,7 @@ Full-stack social platform with geospatial matching and recommendation scoring.
 ---
 
 ### racetrack – Race Management System (2025)
-**Group project** (with Pavel)
+**Group project** (with [@Pavka-dev](https://github.com/Pavka-dev))
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
@@ -137,7 +137,7 @@ Real-time race management system with role-based interfaces and live synchroniza
 ---
 
 ### literary-lions – Book Discussion Forum (2025)
-**Group project** (with Pavel)
+**Group project** (with [@Pavka-dev](https://github.com/Pavka-dev))
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
@@ -160,7 +160,7 @@ Full-stack forum for literary discussions, built with strict constraints: zero J
 ---
 
 ### stations – Train Network Pathfinding (2025)
-**Group project** (with Pavel)
+**Group project** (with [@Pavka-dev](https://github.com/Pavka-dev))
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-333?style=flat)
