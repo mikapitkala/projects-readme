@@ -41,9 +41,7 @@ Stateless content generation tool for blog posts and emails. Fill out a form wit
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
 
-Star Control 2 Supermelee inspired real-time combat for 2-4 players
-in the browser. Newtonian(ish) physics, diverse ship loadouts, and
-intense multiplayer battles.
+Star Control 2 Supermelee inspired real-time combat for 2-4 players in the browser. Newtonian(ish) physics, diverse ship loadouts, and intense multiplayer battles.
 
 - Zero canvas, zero images - ships are font glyphs, explosions are CSS gradients and box-shadows, stars are procedural dots
 - (Ok, one image - the favicon is a screenshot of the CSS logo)
@@ -123,8 +121,7 @@ Full-stack social platform with geospatial matching and recommendation scoring.
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
 
-Real-time race management system with role-based interfaces and
-live synchronization.
+Real-time race management system with role-based interfaces and live synchronization.
 
 - Four management interfaces: front desk (session management), race control (safety/flags), lap tracker (timing), public leaderboard
 - Role-based authentication with server-side key validation
@@ -190,8 +187,7 @@ Terminal-based pathfinding for train networks with conflict-free concurrent trai
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-Web app for browsing and comparing car models, consuming a separate
-Node.js API.
+Web app for browsing and comparing car models, consuming a separate Node.js API.
 
 - Recommendation algorithm scoring models, brands, and categories based on user interactions (views, likes, dislikes)
 - CSS-only row/column highlighting in comparison view (notoriously difficult to pull off without JavaScript)
@@ -243,7 +239,7 @@ One-keypress AutoHotkey script for wrapping selected VS Code text in a properly 
 - Grabs the selected code, pulls the relative file path via VS Code's built-in "Copy Relative Path" command, detects language from the extension
 - Not a real project - just tired of typing backticks
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/vscode2markdown)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/vscode2md)
 
 ---
 
@@ -259,7 +255,7 @@ Python script that scans a directory for 3D models (`.fbx`, `.obj`, `.stl`) and 
 - Geometry only (no UVs, textures, rigs, animations)
 - Runs from Blender's scripting tab or any external Python environment with `bpy` available
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/blender-converter)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/bpy_batch_converter)
 
 ---
 
