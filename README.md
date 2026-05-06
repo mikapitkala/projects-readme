@@ -16,7 +16,11 @@ A selection of things I've built, mostly for school. Most repos are private due 
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+<div align="center">
+
 [![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/ghostwriter) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/ghostwriter)
+
+</div>
 
 https://github.com/user-attachments/assets/9aa97a00-09ea-490a-819e-741e01400cf7
 
@@ -50,7 +54,11 @@ Stateless content generation tool for blog posts and emails. Fill out a form wit
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
 
+<div align="center">
+
 [![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/multi-player) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/multi-player)
+
+</div>
 
 https://github.com/user-attachments/assets/83505791-1ed6-42bb-8db3-7cffd0180588
 
@@ -85,7 +93,11 @@ Star Control 2 Supermelee inspired real-time combat for 2-4 players in the brows
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
+<div align="center">
+
 [![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/frontend-framework) [![Docs](https://img.shields.io/badge/Docs-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/frontend-framework/docs) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/frontend-framework)
+
+</div>
 
 https://github.com/user-attachments/assets/72b5312a-33b6-4cc3-aa4b-8899ce9f3b3b
 
@@ -115,7 +127,11 @@ A reactive frontend framework built without a virtual DOM. Import via ES modules
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+<div align="center">
+
 [![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/match-me) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/match-me)
+
+</div>
 
 https://github.com/user-attachments/assets/bfd67db8-cf3d-464c-89a6-18d229b93067
 
@@ -144,7 +160,11 @@ https://github.com/user-attachments/assets/48880b49-62fb-46f3-a1dc-f4317df82d23
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
 
+<div align="center">
+
 [![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/racetrack) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/racetrack)
+
+</div>
 
 https://github.com/user-attachments/assets/931b861c-6729-4acd-9a82-21a6605ee72f
 
@@ -170,7 +190,11 @@ Real-time race management system with role-based interfaces and live synchroniza
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+<div align="center">
+
 [![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/literary-lions) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/literary-lions)
+
+</div>
 
 https://github.com/user-attachments/assets/cb5d7678-909b-43ed-ad99-8ffb00586038
 
@@ -194,7 +218,11 @@ Full-stack forum for literary discussions, built with strict constraints: zero J
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-333?style=flat)
 
+<div align="center">
+
 [![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/stations) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/stations)
+
+</div>
 
 ![stations 02](stations/screenshots/02.png)
 
@@ -220,7 +248,11 @@ Terminal-based pathfinding for train networks with conflict-free concurrent trai
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
+<div align="center">
+
 [![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/cars) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/cars)
+
+</div>
 
 https://github.com/user-attachments/assets/0e201859-2d3c-4fbd-8f1b-cca744b6fc17
 
@@ -251,7 +283,11 @@ Web app for browsing and comparing car models, consuming a separate Node.js API.
 ![CLI](https://img.shields.io/badge/CLI-333?style=flat)
 ![Web](https://img.shields.io/badge/Web-0366d6?style=flat)
 
+<div align="center">
+
 [![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/art) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/art)
+
+</div>
 
 https://github.com/user-attachments/assets/7b864a31-e132-48a5-8718-e07ebf4774b1
 
@@ -278,7 +314,11 @@ CLI and web tool for encoding and decoding ASCII art shorthand.
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
+<div align="center">
+
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/monitor-monitor)
+
+</div>
 
 ![monitor-monitor 01](monitor-monitor/screenshots/01.png)
 
@@ -303,7 +343,11 @@ System tray utility that watches for display connection changes and automaticall
 
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=flat&logo=autohotkey&logoColor=white)
 
+<div align="center">
+
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/vscode2md)
+
+</div>
 
 https://github.com/user-attachments/assets/ee7f6726-cdf3-46c2-99a1-f6443590e941
 
@@ -322,7 +366,11 @@ One-keypress AutoHotkey script for wrapping selected VS Code text in a properly 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
+<div align="center">
+
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/bpy_batch_converter)
+
+</div>
 
 Python script that scans a directory for 3D models (`.fbx`, `.obj`, `.stl`) and batch-converts between formats using Blender's Python API. Born from the recurring problem of purchased asset packs somehow always being in the wrong format for whatever app I want to use them in.
 
@@ -340,7 +388,11 @@ Python script that scans a directory for 3D models (`.fbx`, `.obj`, `.stl`) and 
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white)
 ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 
+<div align="center">
+
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.scifi-meshes.com)
+
+</div>
 
 ![louie 01](louie/screenshots/01.png)
 
@@ -371,9 +423,9 @@ Community moderation and role management bot for the Scifi-Meshes Discord server
 ![Vanilla Forums](https://img.shields.io/badge/Vanilla_Forums-gray?style=flat)
 ![Regex](https://img.shields.io/badge/%F0%9F%92%80_Regex-red?style=flat)
 
-[![Visit Forum](https://img.shields.io/badge/🌐_Visit_Forum-4CAF50?style=for-the-badge)](https://www.scifi-meshes.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.scifi-meshes.com)
-
 <div align="center">
+
+[![Visit Forum](https://img.shields.io/badge/🌐_Visit_Forum-4CAF50?style=for-the-badge)](https://www.scifi-meshes.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.scifi-meshes.com)
   
 ![sfm 01](https://forums.scifi-meshes.com/uploads/editor/06/hzipp5qiorj6.gif)
 
