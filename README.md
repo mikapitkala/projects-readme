@@ -166,6 +166,8 @@ Real-time race management system with role-based interfaces and live synchroniza
 
 [![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/literary-lions) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/literary-lions)
 
+https://github.com/user-attachments/assets/cb5d7678-909b-43ed-ad99-8ffb00586038
+
 Full-stack forum for literary discussions, built with strict constraints: zero JavaScript, zero non-standard Go libraries.
 
 - Pure server-side rendering with Go templates
