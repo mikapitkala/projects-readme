@@ -26,7 +26,7 @@ Stateless content generation tool for blog posts and emails. Fill out a form wit
 
 ![ghostwriter 01](ghostwriter/screenshots/01.png)
 
-- Vendor-agnostic via OpenRouter with direct provider fallbacks (OpenAI, Anthropic, Google, DeepSeek, Mistral, Grok)
+- Vendor-agnostic via OpenRouter with direct provider alternatives (OpenAI, Anthropic, Google, DeepSeek, Mistral, Grok)
 - OpenAI or Anthropic formatted API requests, based on provider
 - XML-structured prompting with self-validation loop. LLM grades its own output against criteria
 - Server-side overrides for mechanically verifiable checks (word count, header structure)
@@ -63,7 +63,7 @@ Star Control 2 Supermelee inspired real-time combat for 2-4 players in the brows
 
 https://github.com/user-attachments/assets/83505791-1ed6-42bb-8db3-7cffd0180588
 
-- Zero canvas, zero images - ships are font glyphs, explosions are CSS gradients and box-shadows, stars are procedural dots
+- Zero canvas, zero images - all visuals are CSS: ships are pixel font glyphs, explosions are CSS gradients and box-shadows and so on
 - (Ok, one image - the favicon is a screenshot of the CSS logo)
 - Hardware-accelerated DOM rendering via `will-change: transform`
 - Newtonian physics with three drag presets: beginner (arcade), medium (balanced), advanced (true Newtonian, no drag; the *correct* option)
@@ -98,7 +98,7 @@ https://github.com/user-attachments/assets/83505791-1ed6-42bb-8db3-7cffd0180588
 
 </div>
 
-A reactive frontend framework built without a virtual DOM. Import via ES modules and run - no build step, no tooling.
+A signals based frontend framework built without a virtual DOM. Import via ES modules and run - no build step, no tooling.
 
 https://github.com/user-attachments/assets/72b5312a-33b6-4cc3-aa4b-8899ce9f3b3b
 
@@ -179,8 +179,6 @@ https://github.com/user-attachments/assets/931b861c-6729-4acd-9a82-21a6605ee72f
 - Test data mode with explicit confirmation to prevent accidental data loss
 - Configurable race durations (60s for dev, 10min for production)
 
-
-
 ---
 
 ### literary-lions – Book Discussion Forum (2025)
@@ -254,12 +252,12 @@ Terminal-based pathfinding for train networks with conflict-free concurrent trai
 
 </div>
 
-Web app for browsing and comparing car models, consuming a separate Node.js API.
+Web app for browsing and comparing car models, consuming a separate Node.js API that was provided.
 
 ![cars 01](cars/screenshots/01.png)
 
 - Recommendation algorithm scoring models, brands, and categories based on user interactions (views, likes, dislikes)
-- CSS-only row/column highlighting in comparison view (notoriously difficult to pull off without JavaScript)
+- CSS-only row/column highlighting in comparison view (was a little tricky without JavaScript)
 - Wikipedia integration for model and manufacturer details (currently blocked by their crawler restrictions, but the integration is there)
 - Side-by-side comparison of unlimited models in a horizontal carousel
 - Filtering by manufacturer, category, country
@@ -298,7 +296,7 @@ https://github.com/user-attachments/assets/434fe3ba-1dd1-4ba0-9055-5b6b800407a2
 
 - Custom parser with strict and relaxed error modes
 - Color control blocks with CSS-like syntax - CLI supports named colors, web version supports any HTML color name or hex value
-- Reusable color library used across the entire Go module
+- Reusable color library used across all my Go projects actually
 - Session persistence via cookies in the web version
 - File import/export with auto-detection based on extensions (`.encoded.txt` gets decoded, `.art.txt` gets encoded)
 - Multiple input modes: literal strings, files, mixed
@@ -321,7 +319,7 @@ https://github.com/user-attachments/assets/434fe3ba-1dd1-4ba0-9055-5b6b800407a2
 
 </div>
 
-System tray utility that watches for display connection changes and automatically switches Windows to a preferred mode (default: Extend) instead of the usual Clone default. Originally a messy work script, rewritten as a proper public repo.
+System tray utility that watches for display connection changes and automatically switches Windows to a preferred mode (default: Extend) instead of the usual Clone default. Originally a messy work script, promoted to a personal project.
 
 ![monitor-monitor 01](monitor-monitor/screenshots/01.png)
 
@@ -334,8 +332,6 @@ System tray utility that watches for display connection changes and automaticall
 - PyInstaller-packaged exe, mostly to sneak around endpoint protection at work (Python was allowed)
 
 **Why would you poll instead of using `WM_DISPLAYCHANGE`?** Because I could not get the event to fire reliably when plugging in monitors (the resolution doesn't necessarily change). Polling was a silly solution to a stupid problem.
-
-
 
 ---
 
@@ -354,11 +350,8 @@ One-keypress AutoHotkey script for wrapping selected VS Code text in a properly 
 
 https://github.com/user-attachments/assets/ee7f6726-cdf3-46c2-99a1-f6443590e941
 
-
 - Grabs the selected code, pulls the relative file path via VS Code's built-in "Copy Relative Path" command, detects language from the extension
 - Not a real project - just tired of typing backticks
-
-
 
 ---
 
@@ -379,6 +372,7 @@ Python script that scans a directory for 3D models (`.fbx`, `.obj`, `.stl`) and 
 - Scans recursively and only converts when the target format doesn't already exist
 - Geometry only (no UVs, textures, rigs, animations)
 - Runs from Blender's scripting tab or any external Python environment with `bpy` available
+- This ones probably only runs on 2.8 or something along those lines. I should get back to it
 
 ---
 
@@ -411,8 +405,6 @@ Community moderation and role management bot for the Scifi-Meshes Discord server
 - **Rules embed generator** - admin command that posts a multi-embed rules document with cross-references to actual channel IDs
 - Slash commands with admin-only permissions, ephemeral replies for status checks and tests
 - Modular command and event loading from directories
-
-
 
 ---
 
@@ -500,7 +492,7 @@ But, it worked. Mostly.
 ### Jira Workflow & Budgeting Automation (2022 - 2023)
 **Solo project** | WithSecure
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 Updated localization Jira workflow with automated data collection and budget tracking. Getting my own custom Jira workflow instead of the generic one is actually something of a career highlight.
 
