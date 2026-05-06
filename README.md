@@ -22,11 +22,9 @@ A selection of things I've built, mostly for school. Most repos are private due 
 
 </div>
 
-https://github.com/user-attachments/assets/9aa97a00-09ea-490a-819e-741e01400cf7
-
-
-
 Stateless content generation tool for blog posts and emails. Fill out a form with content requirements and style preferences, get streamed output that can be refined, edited, and exported.
+
+![ghostwriter 01](ghostwriter/screenshots/01.png)
 
 - Vendor-agnostic via OpenRouter with direct provider fallbacks (OpenAI, Anthropic, Google, DeepSeek, Mistral, Grok)
 - OpenAI or Anthropic formatted API requests, based on provider
@@ -39,9 +37,10 @@ Stateless content generation tool for blog posts and emails. Fill out a form wit
 - Export to PDF, DOCX, Markdown, HTML, Rich Text, BBCode, plain text
 - Optional browser-side API key storage for bring-your-own-key usage
 
-![ghostwriter 02](ghostwriter/screenshots/02.png)
-![ghostwriter 03](ghostwriter/screenshots/03.png)
-![ghostwriter 04](ghostwriter/screenshots/04.png)
+https://github.com/user-attachments/assets/9aa97a00-09ea-490a-819e-741e01400cf7
+
+![ghostwriter 05](ghostwriter/screenshots/05.png)
+![ghostwriter 06](ghostwriter/screenshots/06.png)
 ![ghostwriter 07](ghostwriter/screenshots/07.png)
 
 ---
@@ -60,9 +59,9 @@ Stateless content generation tool for blog posts and emails. Fill out a form wit
 
 </div>
 
-https://github.com/user-attachments/assets/83505791-1ed6-42bb-8db3-7cffd0180588
-
 Star Control 2 Supermelee inspired real-time combat for 2-4 players in the browser. Newtonian(ish) physics, diverse ship loadouts, and intense multiplayer battles.
+
+https://github.com/user-attachments/assets/83505791-1ed6-42bb-8db3-7cffd0180588
 
 - Zero canvas, zero images - ships are font glyphs, explosions are CSS gradients and box-shadows, stars are procedural dots
 - (Ok, one image - the favicon is a screenshot of the CSS logo)
@@ -99,9 +98,9 @@ Star Control 2 Supermelee inspired real-time combat for 2-4 players in the brows
 
 </div>
 
-https://github.com/user-attachments/assets/72b5312a-33b6-4cc3-aa4b-8899ce9f3b3b
-
 A reactive frontend framework built without a virtual DOM. Import via ES modules and run - no build step, no tooling.
+
+https://github.com/user-attachments/assets/72b5312a-33b6-4cc3-aa4b-8899ce9f3b3b
 
 - Signals-based reactivity with O(1) fine-grained DOM updates
 - Reactive markers update the DOM directly - no diffing, no wasted cycles
@@ -133,9 +132,10 @@ A reactive frontend framework built without a virtual DOM. Import via ES modules
 
 </div>
 
+Full-stack social platform with geospatial matching and recommendation scoring.
+
 https://github.com/user-attachments/assets/bfd67db8-cf3d-464c-89a6-18d229b93067
 
-Full-stack social platform with geospatial matching and recommendation scoring.
 
 - Weighted compatibility scoring based on bio, interests, location
 - PostGIS-powered geographical proximity matching
@@ -166,9 +166,9 @@ https://github.com/user-attachments/assets/48880b49-62fb-46f3-a1dc-f4317df82d23
 
 </div>
 
-https://github.com/user-attachments/assets/931b861c-6729-4acd-9a82-21a6605ee72f
-
 Real-time race management system with role-based interfaces and live synchronization.
+
+https://github.com/user-attachments/assets/931b861c-6729-4acd-9a82-21a6605ee72f
 
 - Four management interfaces: front desk (session management), race control (safety/flags), lap tracker (timing), public leaderboard
 - Role-based authentication with server-side key validation
@@ -196,9 +196,9 @@ Real-time race management system with role-based interfaces and live synchroniza
 
 </div>
 
-https://github.com/user-attachments/assets/cb5d7678-909b-43ed-ad99-8ffb00586038
-
 Full-stack forum for literary discussions, built with strict constraints: zero JavaScript, zero non-standard Go libraries.
+
+https://github.com/user-attachments/assets/cb5d7678-909b-43ed-ad99-8ffb00586038
 
 - Pure server-side rendering with Go templates
 - Auto-fetches book covers from Open Library API with fallback for misses
@@ -224,9 +224,9 @@ Full-stack forum for literary discussions, built with strict constraints: zero J
 
 </div>
 
-![stations 02](stations/screenshots/02.png)
-
 Terminal-based pathfinding for train networks with conflict-free concurrent train movement.
+
+![stations 02](stations/screenshots/02.png)
 
 - BFS shortest path algorithm
 - Combinatorial optimization using bitmask iteration for finding maximum non-overlapping routes
@@ -254,9 +254,9 @@ Terminal-based pathfinding for train networks with conflict-free concurrent trai
 
 </div>
 
-https://github.com/user-attachments/assets/0e201859-2d3c-4fbd-8f1b-cca744b6fc17
-
 Web app for browsing and comparing car models, consuming a separate Node.js API.
+
+![cars 01](cars/screenshots/01.png)
 
 - Recommendation algorithm scoring models, brands, and categories based on user interactions (views, likes, dislikes)
 - CSS-only row/column highlighting in comparison view (notoriously difficult to pull off without JavaScript)
@@ -271,7 +271,8 @@ Web app for browsing and comparing car models, consuming a separate Node.js API.
   defaults as fallback
 - Auto-installs API server dependencies and starts it on launch
 
-![cars 01](cars/screenshots/01.png)
+https://github.com/user-attachments/assets/0e201859-2d3c-4fbd-8f1b-cca744b6fc17
+
 ![cars 02](cars/screenshots/02.png)
 
 ---
@@ -289,11 +290,11 @@ Web app for browsing and comparing car models, consuming a separate Node.js API.
 
 </div>
 
+CLI and web tool for encoding and decoding ASCII art shorthand.
+
 https://github.com/user-attachments/assets/7b864a31-e132-48a5-8718-e07ebf4774b1
 
 https://github.com/user-attachments/assets/434fe3ba-1dd1-4ba0-9055-5b6b800407a2
-
-CLI and web tool for encoding and decoding ASCII art shorthand.
 
 - Custom parser with strict and relaxed error modes
 - Color control blocks with CSS-like syntax - CLI supports named colors, web version supports any HTML color name or hex value
@@ -320,9 +321,9 @@ CLI and web tool for encoding and decoding ASCII art shorthand.
 
 </div>
 
-![monitor-monitor 01](monitor-monitor/screenshots/01.png)
-
 System tray utility that watches for display connection changes and automatically switches Windows to a preferred mode (default: Extend) instead of the usual Clone default. Originally a messy work script, rewritten as a proper public repo.
+
+![monitor-monitor 01](monitor-monitor/screenshots/01.png)
 
 - Polls WMI (`WmiMonitorBasicDisplayParams`) every 3 seconds for display count changes
 - When a new display appears, fires `DisplaySwitch.exe` with the configured mode
@@ -349,9 +350,10 @@ System tray utility that watches for display connection changes and automaticall
 
 </div>
 
+One-keypress AutoHotkey script for wrapping selected VS Code text in a properly formatted markdown code block with language hint and file path. Paste-ready output for Discord, chats, or documentation.
+
 https://github.com/user-attachments/assets/ee7f6726-cdf3-46c2-99a1-f6443590e941
 
-One-keypress AutoHotkey script for wrapping selected VS Code text in a properly formatted markdown code block with language hint and file path. Paste-ready output for Discord, chats, or documentation.
 
 - Grabs the selected code, pulls the relative file path via VS Code's built-in "Copy Relative Path" command, detects language from the extension
 - Not a real project - just tired of typing backticks
@@ -394,9 +396,9 @@ Python script that scans a directory for 3D models (`.fbx`, `.obj`, `.stl`) and 
 
 </div>
 
-![louie 01](louie/screenshots/01.png)
-
 Community moderation and role management bot for the Scifi-Meshes Discord server. Started on Heroku, migrated to Digital Ocean when Heroku axed their free tier.
+
+![louie 01](louie/screenshots/01.png)
 
 - **Cross-channel spam detection** - tracks message patterns across channels within a sliding window, normalizes content to catch variations, takes action when patterns match known spam behavior
 - Automatic timeout, message deletion, admin alerting with payload preview for review
@@ -504,9 +506,9 @@ Updated localization Jira workflow with automated data collection and budget tra
 
 - Designed to keep the localization operation running with a significantly smaller team after the corporate demerger
 - Automated work tracking, timing, and cost calculation at the ticket level
+- Added auto generating Jira tickets to existing weekly kit tooling to track all continuous localization and it related commits and tickets in Jira
 - Generated open data that other parts of the company could consume for their own reporting
-- Removed the manual spreadsheet work that was eating into delivery time
-- Made the team's output and patterns visible to stakeholders without anyone having to compile reports
+- Made the team's output and patterns visible to stakeholders without anyone having to compile reports separately
 
 ---
 
@@ -518,7 +520,7 @@ Updated localization Jira workflow with automated data collection and budget tra
 ![XLIFF](https://img.shields.io/badge/XLIFF-orange?style=flat)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
-Internal tool at F-Secure for standardizing localization source formats. Effectively a superset of Projectinator - includes all its intake functionality plus format conversion.
+Internal tool at F-Secure for standardizing localization source formats, especially for more confetti-like content. Effectively a superset of Projectinator - includes all its intake functionality plus format conversion.
 
 - Converts various input formats (CSV, XLSX, inline tags) into standardized XLIFF kits
 - CAT-tool-agnostic output - any translation tool can consume the results
