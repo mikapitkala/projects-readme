@@ -83,6 +83,8 @@ Star Control 2 Supermelee inspired real-time combat for 2-4 players in the brows
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
+https://github.com/user-attachments/assets/72b5312a-33b6-4cc3-aa4b-8899ce9f3b3b
+
 A reactive frontend framework built without a virtual DOM. Import via ES modules and run - no build step, no tooling.
 
 - Signals-based reactivity with O(1) fine-grained DOM updates
