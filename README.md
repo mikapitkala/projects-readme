@@ -18,7 +18,7 @@ A selection of things I've built, mostly for school. Most repos are private due 
 
 <div align="center">
 
-[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/ghostwriter) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/ghostwriter)
+[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/ghostwriter) [![Actual Repo](https://img.shields.io/badge/Repo_(PRIVATE)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/ghostwriter)
 
 </div>
 
@@ -55,7 +55,7 @@ https://github.com/user-attachments/assets/9aa97a00-09ea-490a-819e-741e01400cf7
 
 <div align="center">
 
-[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/multi-player) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/multi-player)
+[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/multi-player) [![Actual Repo](https://img.shields.io/badge/Repo_(PRIVATE)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/multi-player)
 
 </div>
 
@@ -94,7 +94,7 @@ https://github.com/user-attachments/assets/83505791-1ed6-42bb-8db3-7cffd0180588
 
 <div align="center">
 
-[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/frontend-framework) [![Docs](https://img.shields.io/badge/Docs-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/frontend-framework/docs) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/frontend-framework)
+[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/frontend-framework) [![Docs](https://img.shields.io/badge/Docs-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/frontend-framework/docs) [![Actual Repo](https://img.shields.io/badge/Repo_(PRIVATE)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/frontend-framework)
 
 </div>
 
@@ -128,7 +128,7 @@ https://github.com/user-attachments/assets/72b5312a-33b6-4cc3-aa4b-8899ce9f3b3b
 
 <div align="center">
 
-[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/match-me) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/match-me)
+[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/match-me) [![Actual Repo](https://img.shields.io/badge/Repo_(PRIVATE)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/match-me)
 
 </div>
 
@@ -162,7 +162,7 @@ https://github.com/user-attachments/assets/48880b49-62fb-46f3-a1dc-f4317df82d23
 
 <div align="center">
 
-[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/racetrack) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/racetrack)
+[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/racetrack) [![Actual Repo](https://img.shields.io/badge/Repo_(PRIVATE)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/racetrack)
 
 </div>
 
@@ -192,7 +192,7 @@ https://github.com/user-attachments/assets/931b861c-6729-4acd-9a82-21a6605ee72f
 
 <div align="center">
 
-[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/literary-lions) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/literary-lions)
+[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/literary-lions) [![Actual Repo](https://img.shields.io/badge/Repo_(PRIVATE)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/literary-lions)
 
 </div>
 
@@ -220,7 +220,7 @@ https://github.com/user-attachments/assets/cb5d7678-909b-43ed-ad99-8ffb00586038
 
 <div align="center">
 
-[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/stations) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/stations)
+[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/stations) [![Actual Repo](https://img.shields.io/badge/Repo_(PRIVATE)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/stations)
 
 </div>
 
@@ -250,7 +250,7 @@ Terminal-based pathfinding for train networks with conflict-free concurrent trai
 
 <div align="center">
 
-[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/cars) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/cars)
+[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/cars) [![Actual Repo](https://img.shields.io/badge/Repo_(PRIVATE)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/cars)
 
 </div>
 
@@ -286,7 +286,7 @@ https://github.com/user-attachments/assets/0e201859-2d3c-4fbd-8f1b-cca744b6fc17
 
 <div align="center">
 
-[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/art) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/art)
+[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/art) [![Actual Repo](https://img.shields.io/badge/Repo_(PRIVATE)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/art)
 
 </div>
 
