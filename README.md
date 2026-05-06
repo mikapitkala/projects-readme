@@ -275,6 +275,8 @@ System tray utility that watches for display connection changes and automaticall
 
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=flat&logo=autohotkey&logoColor=white)
 
+https://github.com/user-attachments/assets/ee7f6726-cdf3-46c2-99a1-f6443590e941
+
 One-keypress AutoHotkey script for wrapping selected VS Code text in a properly formatted markdown code block with language hint and file path. Paste-ready output for Discord, chats, or documentation.
 
 - Grabs the selected code, pulls the relative file path via VS Code's built-in "Copy Relative Path" command, detects language from the extension
