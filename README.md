@@ -186,6 +186,8 @@ Full-stack forum for literary discussions, built with strict constraints: zero J
 
 [![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/stations) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/stations)
 
+![stations 02](stations/screenshots/02.png)
+
 Terminal-based pathfinding for train networks with conflict-free concurrent train movement.
 
 - BFS shortest path algorithm
@@ -196,6 +198,8 @@ Terminal-based pathfinding for train networks with conflict-free concurrent trai
 - Compressed output (gzip) for large simulations
 - Comprehensive test suite with selective test execution
 - Helper scripts for quick iteration during development
+
+![stations 02](stations/screenshots/02.png)
 
 ---
 
