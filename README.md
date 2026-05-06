@@ -199,6 +199,8 @@ Terminal-based pathfinding for train networks with conflict-free concurrent trai
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
+https://github.com/user-attachments/assets/0e201859-2d3c-4fbd-8f1b-cca744b6fc17
+
 Web app for browsing and comparing car models, consuming a separate Node.js API.
 
 - Recommendation algorithm scoring models, brands, and categories based on user interactions (views, likes, dislikes)
@@ -215,6 +217,9 @@ Web app for browsing and comparing car models, consuming a separate Node.js API.
 - Auto-installs API server dependencies and starts it on launch
 
 [![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/cars) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/cars)
+
+![cars 01](cars/screenshots/01.png)
+![cars 02](cars/screenshots/02.png)
 
 ---
 
