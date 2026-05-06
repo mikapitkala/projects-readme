@@ -238,6 +238,8 @@ CLI and web tool for encoding and decoding ASCII art shorthand.
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
+![monitor-monitor 01](monitor-monitor/screenshots/01.png)
+
 System tray utility that watches for display connection changes and automatically switches Windows to a preferred mode (default: Extend) instead of the usual Clone default. Originally a messy work script, rewritten as a proper public repo.
 
 - Polls WMI (`WmiMonitorBasicDisplayParams`) every 3 seconds for display count changes
