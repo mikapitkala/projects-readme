@@ -140,6 +140,8 @@ Full-stack social platform with geospatial matching and recommendation scoring.
 
 [![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/racetrack) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/racetrack)
 
+https://github.com/user-attachments/assets/931b861c-6729-4acd-9a82-21a6605ee72f
+
 Real-time race management system with role-based interfaces and live synchronization.
 
 - Four management interfaces: front desk (session management), race control (safety/flags), lap tracker (timing), public leaderboard
@@ -199,7 +201,7 @@ Terminal-based pathfinding for train networks with conflict-free concurrent trai
 - Comprehensive test suite with selective test execution
 - Helper scripts for quick iteration during development
 
-![stations 02](stations/screenshots/02.png)
+![stations 01](stations/screenshots/01.png)
 
 ---
 
