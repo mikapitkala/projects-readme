@@ -117,6 +117,8 @@ A reactive frontend framework built without a virtual DOM. Import via ES modules
 
 [![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/match-me) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/match-me)
 
+https://github.com/user-attachments/assets/bfd67db8-cf3d-464c-89a6-18d229b93067
+
 Full-stack social platform with geospatial matching and recommendation scoring.
 
 - Weighted compatibility scoring based on bio, interests, location
@@ -128,6 +130,10 @@ Full-stack social platform with geospatial matching and recommendation scoring.
 - Custom launcher (Go binary) manages the full stack: PostgreSQL + PostGIS via Docker, backend API on :8080, Vite frontend on :5173
 - Launcher auto-checks system requirements and provides setup guidance
 - Primarily responsible for frontend
+
+https://github.com/user-attachments/assets/14e999f2-28b6-4fa7-b302-760caa347ee2
+
+https://github.com/user-attachments/assets/48880b49-62fb-46f3-a1dc-f4317df82d23
 
 ---
 
@@ -366,6 +372,12 @@ Community moderation and role management bot for the Scifi-Meshes Discord server
 ![Regex](https://img.shields.io/badge/%F0%9F%92%80_Regex-red?style=flat)
 
 [![Visit Forum](https://img.shields.io/badge/🌐_Visit_Forum-4CAF50?style=for-the-badge)](https://www.scifi-meshes.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.scifi-meshes.com)
+
+<div align="center">
+  
+![sfm 01](https://forums.scifi-meshes.com/uploads/editor/06/hzipp5qiorj6.gif)
+
+</div>
 
 Long-running 3D sci-fi art community forum (running since 2001, data from 2006 onwards). In 2018, migrated from vBulletin to Vanilla Forums while simultaneously redesigning it.
 
