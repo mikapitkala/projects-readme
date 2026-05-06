@@ -43,6 +43,8 @@ Stateless content generation tool for blog posts and emails. Fill out a form wit
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
 
+https://github.com/user-attachments/assets/83505791-1ed6-42bb-8db3-7cffd0180588
+
 Star Control 2 Supermelee inspired real-time combat for 2-4 players in the browser. Newtonian(ish) physics, diverse ship loadouts, and intense multiplayer battles.
 
 - Zero canvas, zero images - ships are font glyphs, explosions are CSS gradients and box-shadows, stars are procedural dots
@@ -214,6 +216,8 @@ Web app for browsing and comparing car models, consuming a separate Node.js API.
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-333?style=flat)
 ![Web](https://img.shields.io/badge/Web-0366d6?style=flat)
+
+https://github.com/user-attachments/assets/7b864a31-e132-48a5-8718-e07ebf4774b1
 
 CLI and web tool for encoding and decoding ASCII art shorthand.
 
