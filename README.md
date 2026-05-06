@@ -16,7 +16,9 @@ A selection of things I've built, mostly for school. Most repos are private due 
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-![ghostwriter 01](ghostwriter/screenshots/01.png)
+https://github.com/user-attachments/assets/9aa97a00-09ea-490a-819e-741e01400cf7
+
+
 
 Stateless content generation tool for blog posts and emails. Fill out a form with content requirements and style preferences, get streamed output that can be refined, edited, and exported.
 
@@ -33,10 +35,11 @@ Stateless content generation tool for blog posts and emails. Fill out a form wit
 
 [![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/ghostwriter) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/ghostwriter)
 
+![ghostwriter 01](ghostwriter/screenshots/01.png)
 ![ghostwriter 02](ghostwriter/screenshots/02.png)
+![ghostwriter 03](ghostwriter/screenshots/03.png)
 ![ghostwriter 04](ghostwriter/screenshots/04.png)
-![ghostwriter 05](ghostwriter/screenshots/05.png)
-![ghostwriter 06](ghostwriter/screenshots/06.png)
+![ghostwriter 07](ghostwriter/screenshots/07.png)
 
 ---
 
