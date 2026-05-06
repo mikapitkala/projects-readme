@@ -33,8 +33,6 @@ Stateless content generation tool for blog posts and emails. Fill out a form wit
 
 [![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/ghostwriter) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/ghostwriter)
 
-![ghostwriter video](ghostwriter/screenshots/video.mp4)
-
 ---
 
 ### kood/Melee – Multiplayer Space Combat Arena (2025)
@@ -232,6 +230,29 @@ CLI and web tool for encoding and decoding ASCII art shorthand.
 ---
 
 ## Personal Projects
+
+### Monitor Monitor (2026)
+**Solo project** | Colleague complaint rabbit hole
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+System tray utility that watches for display connection changes and automatically switches Windows to a preferred mode (default: Extend) instead of the usual Clone default. Originally a messy work script, rewritten as a proper public repo.
+
+- Polls WMI (`WmiMonitorBasicDisplayParams`) every 3 seconds for display count changes
+- When a new display appears, fires `DisplaySwitch.exe` with the configured mode
+- Four modes: Internal only, Clone, Extend, External only
+- Quick-switch via tray icon or double-click in the UI
+- Follows Windows light/dark mode preference
+- Command line args for startup folder automation
+- PyInstaller-packaged exe, mostly to sneak around endpoint protection at work (Python was allowed)
+
+**Why would you poll instead of using `WM_DISPLAYCHANGE`?** Because I could not get the event to fire reliably when plugging in monitors (the resolution doesn't necessarily change). Polling was a silly solution to a stupid problem.
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/monitor-monitor)
+
+---
 
 ### vscode2markdown (2025)
 **Solo project** | Tiny workflow tool
