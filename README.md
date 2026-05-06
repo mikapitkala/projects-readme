@@ -9,14 +9,14 @@ A selection of things I've built, mostly for school. Most repos are private due 
 ### Ghostwriter – AI Content Generation Platform (2026)
 **Solo project**
 
-![ghostwriter 01](ghostwriter/screenshots/01.png)
-
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=flat&logo=htmx&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpinedotjs&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+![ghostwriter 01](ghostwriter/screenshots/01.png)
 
 Stateless content generation tool for blog posts and emails. Fill out a form with content requirements and style preferences, get streamed output that can be refined, edited, and exported.
 
@@ -32,6 +32,11 @@ Stateless content generation tool for blog posts and emails. Fill out a form wit
 - Optional browser-side API key storage for bring-your-own-key usage
 
 [![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/ghostwriter) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/ghostwriter)
+
+![ghostwriter 02](ghostwriter/screenshots/02.png)
+![ghostwriter 04](ghostwriter/screenshots/04.png)
+![ghostwriter 05](ghostwriter/screenshots/05.png)
+![ghostwriter 06](ghostwriter/screenshots/06.png)
 
 ---
 
@@ -66,6 +71,9 @@ Star Control 2 Supermelee inspired real-time combat for 2-4 players in the brows
 - 60 FPS target with fixed 16.67ms physics timestep
 
 [![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/multi-player) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/multi-player)
+
+![multi-player 01](multi-player/screenshots/01.png)
+![multi-player 02](multi-player/screenshots/02.png)
 
 ---
 
@@ -299,6 +307,8 @@ Python script that scans a directory for 3D models (`.fbx`, `.obj`, `.stl`) and 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white)
 ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat&logo=digitalocean&logoColor=white)
+
+![louie 01](louie/screenshots/01.png)
 
 Community moderation and role management bot for the Scifi-Meshes Discord server. Started on Heroku, migrated to Digital Ocean when Heroku axed their free tier.
 
