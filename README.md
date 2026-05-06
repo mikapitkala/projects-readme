@@ -219,6 +219,8 @@ Web app for browsing and comparing car models, consuming a separate Node.js API.
 
 https://github.com/user-attachments/assets/7b864a31-e132-48a5-8718-e07ebf4774b1
 
+https://github.com/user-attachments/assets/434fe3ba-1dd1-4ba0-9055-5b6b800407a2
+
 CLI and web tool for encoding and decoding ASCII art shorthand.
 
 - Custom parser with strict and relaxed error modes
