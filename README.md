@@ -16,6 +16,8 @@ A selection of things I've built, mostly for school. Most repos are private due 
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/ghostwriter) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/ghostwriter)
+
 https://github.com/user-attachments/assets/9aa97a00-09ea-490a-819e-741e01400cf7
 
 
@@ -33,9 +35,6 @@ Stateless content generation tool for blog posts and emails. Fill out a form wit
 - Export to PDF, DOCX, Markdown, HTML, Rich Text, BBCode, plain text
 - Optional browser-side API key storage for bring-your-own-key usage
 
-[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/ghostwriter) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/ghostwriter)
-
-![ghostwriter 01](ghostwriter/screenshots/01.png)
 ![ghostwriter 02](ghostwriter/screenshots/02.png)
 ![ghostwriter 03](ghostwriter/screenshots/03.png)
 ![ghostwriter 04](ghostwriter/screenshots/04.png)
@@ -50,6 +49,8 @@ Stateless content generation tool for blog posts and emails. Fill out a form wit
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
+
+[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/multi-player) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/multi-player)
 
 https://github.com/user-attachments/assets/83505791-1ed6-42bb-8db3-7cffd0180588
 
@@ -73,8 +74,6 @@ Star Control 2 Supermelee inspired real-time combat for 2-4 players in the brows
 - 30Hz state sync with client-side interpolation
 - 60 FPS target with fixed 16.67ms physics timestep
 
-[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/multi-player) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/multi-player)
-
 ![multi-player 01](multi-player/screenshots/01.png)
 ![multi-player 02](multi-player/screenshots/02.png)
 
@@ -85,6 +84,8 @@ Star Control 2 Supermelee inspired real-time combat for 2-4 players in the brows
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
+[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/frontend-framework) [![Docs](https://img.shields.io/badge/Docs-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/frontend-framework/docs) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/frontend-framework)
 
 https://github.com/user-attachments/assets/72b5312a-33b6-4cc3-aa4b-8899ce9f3b3b
 
@@ -101,7 +102,6 @@ A reactive frontend framework built without a virtual DOM. Import via ES modules
 - Minimal development server included (built-in Node modules only, no `npm install` required)
 - Zero build steps
 
-[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/frontend-framework) [![Docs](https://img.shields.io/badge/Docs-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/frontend-framework/docs) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/frontend-framework)
 
 ---
 
@@ -115,6 +115,8 @@ A reactive frontend framework built without a virtual DOM. Import via ES modules
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/match-me) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/match-me)
+
 Full-stack social platform with geospatial matching and recommendation scoring.
 
 - Weighted compatibility scoring based on bio, interests, location
@@ -127,8 +129,6 @@ Full-stack social platform with geospatial matching and recommendation scoring.
 - Launcher auto-checks system requirements and provides setup guidance
 - Primarily responsible for frontend
 
-[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/match-me) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/match-me)
-
 ---
 
 ### racetrack – Race Management System (2025)
@@ -137,6 +137,8 @@ Full-stack social platform with geospatial matching and recommendation scoring.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
+
+[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/racetrack) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/racetrack)
 
 Real-time race management system with role-based interfaces and live synchronization.
 
@@ -149,7 +151,7 @@ Real-time race management system with role-based interfaces and live synchroniza
 - Test data mode with explicit confirmation to prevent accidental data loss
 - Configurable race durations (60s for dev, 10min for production)
 
-[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/racetrack) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/racetrack)
+
 
 ---
 
@@ -159,6 +161,8 @@ Real-time race management system with role-based interfaces and live synchroniza
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/literary-lions) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/literary-lions)
 
 Full-stack forum for literary discussions, built with strict constraints: zero JavaScript, zero non-standard Go libraries.
 
@@ -172,8 +176,6 @@ Full-stack forum for literary discussions, built with strict constraints: zero J
 - Admin system with auto-generated credentials on first run
 - Docker support for containerized deployment
 
-[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/literary-lions) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/literary-lions)
-
 ---
 
 ### stations – Train Network Pathfinding (2025)
@@ -181,6 +183,8 @@ Full-stack forum for literary discussions, built with strict constraints: zero J
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-333?style=flat)
+
+[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/stations) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/stations)
 
 Terminal-based pathfinding for train networks with conflict-free concurrent train movement.
 
@@ -193,8 +197,6 @@ Terminal-based pathfinding for train networks with conflict-free concurrent trai
 - Comprehensive test suite with selective test execution
 - Helper scripts for quick iteration during development
 
-[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/stations) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/stations)
-
 ---
 
 ### cars – Car Showcase & Comparison (2025)
@@ -203,6 +205,8 @@ Terminal-based pathfinding for train networks with conflict-free concurrent trai
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/cars) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/cars)
 
 https://github.com/user-attachments/assets/0e201859-2d3c-4fbd-8f1b-cca744b6fc17
 
@@ -221,8 +225,6 @@ Web app for browsing and comparing car models, consuming a separate Node.js API.
   defaults as fallback
 - Auto-installs API server dependencies and starts it on launch
 
-[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/cars) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/cars)
-
 ![cars 01](cars/screenshots/01.png)
 ![cars 02](cars/screenshots/02.png)
 
@@ -234,6 +236,8 @@ Web app for browsing and comparing car models, consuming a separate Node.js API.
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-333?style=flat)
 ![Web](https://img.shields.io/badge/Web-0366d6?style=flat)
+
+[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/art) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/art)
 
 https://github.com/user-attachments/assets/7b864a31-e132-48a5-8718-e07ebf4774b1
 
@@ -249,8 +253,6 @@ CLI and web tool for encoding and decoding ASCII art shorthand.
 - Multiple input modes: literal strings, files, mixed
 - Rainbow mode for when regular colors aren't enough
 
-[![Readme](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/art) [![Actual Repo](https://img.shields.io/badge/Repo_(Request_ACCESS)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/art)
-
 ---
 
 ## Personal Projects
@@ -261,6 +263,8 @@ CLI and web tool for encoding and decoding ASCII art shorthand.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/monitor-monitor)
 
 ![monitor-monitor 01](monitor-monitor/screenshots/01.png)
 
@@ -276,7 +280,7 @@ System tray utility that watches for display connection changes and automaticall
 
 **Why would you poll instead of using `WM_DISPLAYCHANGE`?** Because I could not get the event to fire reliably when plugging in monitors (the resolution doesn't necessarily change). Polling was a silly solution to a stupid problem.
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/monitor-monitor)
+
 
 ---
 
@@ -285,6 +289,8 @@ System tray utility that watches for display connection changes and automaticall
 
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=flat&logo=autohotkey&logoColor=white)
 
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/vscode2md)
+
 https://github.com/user-attachments/assets/ee7f6726-cdf3-46c2-99a1-f6443590e941
 
 One-keypress AutoHotkey script for wrapping selected VS Code text in a properly formatted markdown code block with language hint and file path. Paste-ready output for Discord, chats, or documentation.
@@ -292,7 +298,7 @@ One-keypress AutoHotkey script for wrapping selected VS Code text in a properly 
 - Grabs the selected code, pulls the relative file path via VS Code's built-in "Copy Relative Path" command, detects language from the extension
 - Not a real project - just tired of typing backticks
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/vscode2md)
+
 
 ---
 
@@ -302,13 +308,13 @@ One-keypress AutoHotkey script for wrapping selected VS Code text in a properly 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/bpy_batch_converter)
+
 Python script that scans a directory for 3D models (`.fbx`, `.obj`, `.stl`) and batch-converts between formats using Blender's Python API. Born from the recurring problem of purchased asset packs somehow always being in the wrong format for whatever app I want to use them in.
 
 - Scans recursively and only converts when the target format doesn't already exist
 - Geometry only (no UVs, textures, rigs, animations)
 - Runs from Blender's scripting tab or any external Python environment with `bpy` available
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/bpy_batch_converter)
 
 ---
 
@@ -319,6 +325,8 @@ Python script that scans a directory for 3D models (`.fbx`, `.obj`, `.stl`) and 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white)
 ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat&logo=digitalocean&logoColor=white)
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.scifi-meshes.com)
 
 ![louie 01](louie/screenshots/01.png)
 
@@ -336,7 +344,7 @@ Community moderation and role management bot for the Scifi-Meshes Discord server
 - Slash commands with admin-only permissions, ephemeral replies for status checks and tests
 - Modular command and event loading from directories
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.scifi-meshes.com)
+
 
 ---
 
@@ -348,6 +356,8 @@ Community moderation and role management bot for the Scifi-Meshes Discord server
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vanilla Forums](https://img.shields.io/badge/Vanilla_Forums-gray?style=flat)
 ![Regex](https://img.shields.io/badge/%F0%9F%92%80_Regex-red?style=flat)
+
+[![Visit Forum](https://img.shields.io/badge/🌐_Visit_Forum-4CAF50?style=for-the-badge)](https://www.scifi-meshes.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.scifi-meshes.com)
 
 Long-running 3D sci-fi art community forum (running since 2001, data from 2006 onwards). In 2018, migrated from vBulletin to Vanilla Forums while simultaneously redesigning it.
 
@@ -408,8 +418,6 @@ UPDATE `vanilla25`.`GDN_\u\3` SET `Body`= CONCAT\(`Body`, '\\r\\n[img]https://[H
 But, it worked. Mostly.
 
 </details>
-
-[![Visit Forum](https://img.shields.io/badge/🌐_Visit_Forum-4CAF50?style=for-the-badge)](https://www.scifi-meshes.com) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.scifi-meshes.com)
 
 ---
 
