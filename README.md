@@ -514,7 +514,7 @@ Updated localization Jira workflow with automated data collection and budget tra
 
 Internal tool at F-Secure for standardizing localization source formats, especially for more confetti-like content. Effectively a superset of Projectinator - includes all its intake functionality plus format conversion.
 
-- Converts various input formats (CSV, XLSX, inline tags) into standardized XLIFF kits
+- Converts various input formats (CSV, XLSX, HML, plaintext) into standardized XLIFF files with inline tags
 - CAT-tool-agnostic output - any translation tool can consume the results
 - Includes Projectinator's project creation and intake functionality so you don't have to hop between tools
 - Integrated with the Weekly Kit
