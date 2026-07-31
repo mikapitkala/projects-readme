@@ -10,7 +10,7 @@ A selection of things I've built, mostly for school. Most repos are private due 
 
 **Personal** — [Monitor Monitor](#monitor-monitor-2026) · [vscode2markdown](#vscode2markdown-2025) · [Blender Batch Converter](#batch-3d-file-converter-for-blender-2024) · [Louie](#louie--discord-community-bot-2022--present) · [Scifi-Meshes.com](#scifi-meshescom-2018--present)
 
-**Work** — [Jira Workflow & Budgeting](#jira-workflow--budgeting-automation-2022---2023) · [FS_XLIFFer](#fs_xliffer--format-normalization-tool-2020) · [Projectinator](#projectinator--order-intake-system-2019) · [Glossary](#moderately-interactive-glossary-2019)
+**Work** — [Jira Workflow & Budgeting](#jira-workflow--budgeting-automation-2022---2023) · [FS_XLIFFer](#fs_xliffer--format-normalization-tool-2020) · [Projectinator](#projectinator--order-intake-system-2019) · [Moderately Interactive Glossary](#moderately-interactive-glossary-2019)
 
 ## kood/Sisu Projects (2025 – 2026)
 
