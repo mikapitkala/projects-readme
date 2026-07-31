@@ -20,11 +20,7 @@ A selection of things I've built, mostly for school. Most repos are private due 
 
 <div align="center">
 
-[![Readme (Part 3)](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/wellness) [![Part 1 Repo](https://img.shields.io/badge/Part_1_Repo_(PRIVATE)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/numbers-dont-lie)
-
-[![Part 2 Repo](https://img.shields.io/badge/Part_2_Repo_(PRIVATE)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/counting-calories) 
-
-[![Part 3 Repo](https://img.shields.io/badge/Part_3_Repo_(PRIVATE)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/ai-assistant)
+[![Readme (Part 3)](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/wellness) [![Part 1 Repo](https://img.shields.io/badge/Part_1_Repo_(PRIVATE)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/numbers-dont-lie) [![Part 2 Repo](https://img.shields.io/badge/Part_2_Repo_(PRIVATE)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/counting-calories) [![Part 3 Repo](https://img.shields.io/badge/Part_3_Repo_(PRIVATE)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/ai-assistant)
 
 </div>
 
@@ -46,6 +42,8 @@ Built as three assignments, all three specs known from the start, so Part 1 was 
 - Multi-method auth (email, four OAuth providers, TOTP 2FA), PII encrypted at rest (AES-256-GCM), GDPR(ish) export and cascade delete
 - Runs whole from one docker command; pull the AI key and a complete tracker still works, though the recipe catalog seeds via embeddings so it comes up empty
 - Vendor-agnostic via OpenRouter, but I was working in Mistral Small in this one
+
+https://github.com/user-attachments/assets/76cd6692-2f99-45ef-b06f-a295b5da29de
 
 ![wellness 03](wellness/screenshots/03-analytics.png)
 ![wellness 04](wellness/screenshots/04-meal-plan.png)
