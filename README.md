@@ -6,6 +6,53 @@ A selection of things I've built, mostly for school. Most repos are private due 
 
 ## kood/Sisu Projects (2025 – 2026)
 
+### Wellness - AI Powered Health, Fitness & Nutrition Platform (2026)
+**Solo project** built in three parts
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=flat&logo=htmx&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpinedotjs&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+<div align="center">
+
+[![Readme (Part 3)](https://img.shields.io/badge/Readme-0366d6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/mikapitkala/projects-readme/tree/main/wellness) [![Part 1 Repo](https://img.shields.io/badge/Part_1_Repo_(PRIVATE)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/numbers-dont-lie)
+
+[![Part 2 Repo](https://img.shields.io/badge/Part_2_Repo_(PRIVATE)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/counting-calories) 
+
+[![Part 3 Repo](https://img.shields.io/badge/Part_3_Repo_(PRIVATE)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mikapitkala/ai-assistant)
+
+</div>
+
+Server-rendered health platform: track wellness score with weight, workouts, habits, and nutrition, then get AI insights, RAG-grounded meal plans, and an conversational assistant, all drawn from your own data. The one rule everything follows: the model routes and explains, Go computes every number. The LLM never does arithmetic and never supplies a figure.
+
+Built as three assignments, all three specs known from the start, so Part 1 was architected to carry Parts 2 and 3 rather than be retrofitted for them (pgvector and a function-calling client were in place from the first migration and AI Assistant was functional from Part 1). Part 1 (~3 months) was the full-stack app: profiles, metrics, analytics, AI insights, and an AI assistant / command panel. Part 2 (~3 weeks) added nutrition: massaging the data, the RAG catalog, and new assistant skills. Part 3 (~1 week) was mostly conversation memory and gap-filling. The later parts slotted in fast because the foundation was built for them.
+
+![wellness 02](wellness/screenshots/02-dashboard.png)
+
+
+- Full tracking and analytics: profiles, weight, workouts and habits, goals with milestone tracking, a customizable dashboard, and a 0-100 wellness score composed from BMI, activity, goal progress, habits and nutrition
+- Nutrition system: 500+ recipe and ingredient catalog, meal planning with versioning and restore, shopping lists, intake logging, macro and micronutrient analysis against targets with AI recipe adjustments and generation
+- The assistant can do anything you can do in the UI (log a metric, generate a plan, swap a meal), and it always asks before it acts. Everything it touches is also reachable via multiple paths in the UI, so it sits on top of a complete app rather than holding it up
+- Every calorie, macro, and metric is computed in Go. The AI routes and narrates, it doesn't calculate, so the numbers can't be made up
+- Conversational assistant over 25 function tools (14 read, 11 control) with a bounded agentic loop, compacting long conversations, layered short- and long-term conversation memory, and inline chart generation
+- Sequential four-step RAG meal planner (budget, vector-retrieve, function-call nutrition, refine) over 500+ recipes and ingredients
+- Nothing is cached into a lie: charts re-derive their numbers live on every view, missing data is stated plainly rather than filled in, and estimates are labelled as estimates
+- Allergen filtering runs in SQL before the model sees a candidate; consent and medical-safety guards fail closed
+- Multi-method auth (email, four OAuth providers, TOTP 2FA), PII encrypted at rest (AES-256-GCM), GDPR(ish) export and cascade delete
+- Runs whole from one docker command; pull the AI key and a complete tracker still works, though the recipe catalog seeds via embeddings so it comes up empty
+- Vendor-agnostic via OpenRouter, but I was working in Mistral Small in this one
+
+![wellness 03](wellness/screenshots/03-analytics.png)
+![wellness 04](wellness/screenshots/04-meal-plan.png)
+![wellness 06](wellness/screenshots/06-recipes.png)
+![wellness 07](wellness/screenshots/07-recipe.png)
+![wellness 08](wellness/screenshots/08-ai-assistant.png)
+
 ### Ghostwriter – AI Content Generation Platform (2026)
 **Solo project**
 
