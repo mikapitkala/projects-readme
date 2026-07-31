@@ -4,6 +4,14 @@ A selection of things I've built, mostly for school. Most repos are private due 
 
 ---
 
+## Contents
+
+**kood/Sisu** — [Wellness](#wellness---ai-powered-health-fitness--nutrition-platform-2026) · [Ghostwriter](#ghostwriter--ai-content-generation-platform-2026) · [kood/Melee](#koodmelee--multiplayer-space-combat-arena-2025) · [dot-js](#dot-js--frontend-framework-from-scratch-2025) · [match-me](#match-me--recommendation-platform-2025) · [racetrack](#racetrack--race-management-system-2025) · [literary-lions](#literary-lions--book-discussion-forum-2025) · [stations](#stations--train-network-pathfinding-2025) · [cars](#cars--car-showcase--comparison-2025) · [art](#art--ascii-art-encoderdecoder-2025)
+
+**Personal** — [Monitor Monitor](#monitor-monitor-2026) · [vscode2markdown](#vscode2markdown-2025) · [Blender Batch Converter](#batch-3d-file-converter-for-blender-2024) · [Louie](#louie--discord-community-bot-2022--present) · [Scifi-Meshes.com](#scifi-meshescom-2018--present)
+
+**Work** — [Jira Workflow & Budgeting](#jira-workflow--budgeting-automation-2022---2023) · [FS_XLIFFer](#fs_xliffer--format-normalization-tool-2020) · [Projectinator](#projectinator--order-intake-system-2019) · [Glossary](#moderately-interactive-glossary-2019)
+
 ## kood/Sisu Projects (2025 – 2026)
 
 ### Wellness - AI Powered Health, Fitness & Nutrition Platform (2026)
@@ -24,9 +32,9 @@ A selection of things I've built, mostly for school. Most repos are private due 
 
 </div>
 
-Server-rendered health platform: track wellness score with weight, workouts, habits, and nutrition, then get AI insights, RAG-grounded meal plans, and an conversational assistant, all drawn from your own data. The one rule everything follows: the model routes and explains, Go computes every number. The LLM never does arithmetic and never supplies a figure.
+Server-rendered health platform: track wellness score with weight, workouts, habits, and nutrition, then get AI insights, RAG-grounded meal plans, and a conversational assistant, all drawn from your own data. The one rule everything follows: the model routes and explains, Go computes every number. The LLM never does arithmetic and never supplies a figure.
 
-Built as three assignments, all three specs known from the start, so Part 1 was architected to carry Parts 2 and 3 rather than be retrofitted for them (pgvector and a function-calling client were in place from the first migration and AI Assistant was functional from Part 1). Part 1 (~3 months) was the full-stack app: profiles, metrics, analytics, AI insights, and an AI assistant / command panel. Part 2 (~3 weeks) added nutrition: massaging the data, the RAG catalog, and new assistant skills. Part 3 (~1 week) was mostly conversation memory and gap-filling. The later parts slotted in fast because the foundation was built for them.
+Built as three assignments, all three specs known from the start, so Part 1 was architected to carry Parts 2 and 3 rather than be retrofitted for them (pgvector and a function-calling client were in place from the first migration and AI Assistant was functional from Part 1). Part 1 (~3 months) was the full-stack app: profiles, metrics, analytics, AI insights, and an AI assistant / command palette. Part 2 (~3 weeks) added nutrition: massaging the data, the RAG catalog, and new assistant skills. Part 3 (~1 week) was mostly conversation memory and gap-filling. The later parts slotted in fast because the foundation was built for them.
 
 ![wellness 02](wellness/screenshots/02-dashboard.png)
 
