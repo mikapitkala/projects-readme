@@ -41,7 +41,7 @@ Built as three assignments, all three specs known from the start, so Part 1 was 
 - Allergen filtering runs in SQL before the model sees a candidate; consent and medical-safety guards fail closed
 - Multi-method auth (email, four OAuth providers, TOTP 2FA), PII encrypted at rest (AES-256-GCM), GDPR(ish) export and cascade delete
 - Runs whole from one docker command; pull the AI key and a complete tracker still works, though the recipe catalog seeds via embeddings so it comes up empty
-- Vendor-agnostic via OpenRouter, but I was working in Mistral Small in this one
+- Vendor-agnostic via OpenRouter, but I was working with Mistral Small for this one
 
 https://github.com/user-attachments/assets/76cd6692-2f99-45ef-b06f-a295b5da29de
 
