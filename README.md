@@ -59,6 +59,17 @@ https://github.com/user-attachments/assets/76cd6692-2f99-45ef-b06f-a295b5da29de
 ![wellness 07](wellness/screenshots/07-recipe.png)
 ![wellness 08](wellness/screenshots/08-ai-assistant.png)
 
+<details>
+<summary>Peer review feedback</summary>
+
+> Mika's project was above and beyond the requirements in terms of quality. He had a clear understanding of the entire project despite its size and responded to bug reports quickly... It was also great to find another HTMX connoisseur. His project felt less like a school project and more like a production-ready application.
+
+> Mika created an excellent and extensive project, demonstrating a deep understanding of how AI works. He also gave an interesting explanation of his work, which clearly showed that he genuinely understands what he is doing.
+
+> They even had deep enough understanding of everything, to talk about their project and AI in general for almost 2 hours straight.
+
+</details>
+
 ### Ghostwriter – AI Content Generation Platform (2026)
 **Solo project**
 
@@ -137,6 +148,15 @@ https://github.com/user-attachments/assets/83505791-1ed6-42bb-8db3-7cffd0180588
 ![multi-player 01](multi-player/screenshots/01.png)
 ![multi-player 02](multi-player/screenshots/02.png)
 
+<details>
+<summary>Peer review feedback</summary>
+
+> Such a clean code and the game looked AMAZING! It was also such a delight to discuss the project and Mika was also really great at explaining how they implemented things such as gravity in the game.
+
+> Mikas creative and technical skills made him the perfect partner for this multiplayer game. He really did the heavy lifting on the core development... You can clearly see his passion in the details, especially the sound design and the game environment.
+
+</details>
+
 ---
 
 ### dot-js – Frontend Framework from Scratch (2025)
@@ -166,6 +186,14 @@ https://github.com/user-attachments/assets/72b5312a-33b6-4cc3-aa4b-8899ce9f3b3b
 - Minimal development server included (built-in Node modules only, no `npm install` required)
 - Zero build steps
 
+<details>
+<summary>Peer review feedback</summary>
+
+> From what I have seen, Mika is really the backbone of this project... I can feel that Mika is really experienced, not just in frontend, but also backend. He is a well rounded coder.
+
+> Impressive work on this submission. It is clear you have strong knowledge of the framework, as the feature works exactly as intended.
+
+</details>
 
 ---
 
@@ -354,6 +382,17 @@ https://github.com/user-attachments/assets/434fe3ba-1dd1-4ba0-9055-5b6b800407a2
 - File import/export with auto-detection based on extensions (`.encoded.txt` gets decoded, `.art.txt` gets encoded)
 - Multiple input modes: literal strings, files, mixed
 - Rainbow mode for when regular colors aren't enough
+
+<details>
+<summary>Peer review feedback</summary>
+
+> Mika found creative solutions to his problems, as well as creative extras that were not specified in the project's requirements, that demonstrated his problem-solving as well as creative thinking skills.
+
+> He had a clear goal in mind and a lot of creative ideas... but he also knew when he needed to stop to move on to the next task. The webpage had everything that was required and more.
+
+> He was also open to ideas about how to possibly make the webpage more accessible and we had a good discussion about it.
+
+</details>
 
 ---
 
